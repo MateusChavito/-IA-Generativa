@@ -35,7 +35,6 @@ Leonardo.IA é uma ferramenta para gerar imagens criativas a partir de descriç�
 
 
 ## Conclusão
-
-Utilizo IA's diariamente, principalmente o chat GPT, é meu novo "google", inclusive esse read.me foi feito com auxílio dele.
-
+As IA's estão evoluindo cada dia mais, exemplo é aquele famoso video do will smith comendo feito por IA a um tempo atrás que era bem ruim, e hoje temos IA's onde não conseguimos mais saber se são autenticos ou criações.
 Este repositório demonstra como diferentes ferramentas de IA generativa podem ser usadas em conjunto para criar uma variedade de saídas criativas, desde código até imagens digitais impressionantes. A integração dessas ferramentas pode potencializar a produtividade e expandir os limites da criação digital.
+
