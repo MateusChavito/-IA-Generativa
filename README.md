@@ -31,7 +31,7 @@ Leonardo.IA é uma ferramenta para gerar imagens criativas a partir de descriç�
    ![alt text](LeoIA.png)
    
    Aqui foi uma brincadeira com um amigo meu que sempre comia linguiça no almoço durante 2 anos no trabalho, e ele tem cabelo longo e olhos cansados
-   ![alt text](LeoIA-1.png)
+   ![alt text](Leo2.png)
 
 
 ## Conclusão
